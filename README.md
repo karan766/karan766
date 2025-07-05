@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack E Commerce Platform <br>👯 I’m looking to collaborate on Open-Source Projects<br>🌱 I’m currently learning Project Collaboration
+🔭 I’m currently working on AI PPT Builder <br>👯 I’m looking to collaborate on Open-Source Projects<br>🌱 I’m currently learning Project Collaboration
 
 
 ## 🌐 Socials:
