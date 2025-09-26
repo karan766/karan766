@@ -1,5 +1,16 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=karan766.karan766" />
-
+<h1 align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=40&center=true&vCenter=true&width=1000&height=70&duration=2500&pause=1000&lines=Hi+There!+👋;+I+am+Karan+Singh+Sodhi!+😉;"
+    alt="greeting"
+  />
+<p align="center" style="line-height:1;width:1000px;">
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=40&center=true&vCenter=true&width=1000&height=70&duration=2500&pause=1000&lines=I+am+a+Web+Developer!+🌐;"
+    alt="greeting"
+  />
+</p>
+</h1>
 
 # 💫 About Me:
 🔭 I’m currently working on AI PPT Builder <br>👯 I’m looking to collaborate on Open-Source Projects<br>🌱 I’m currently learning Project Collaboration
